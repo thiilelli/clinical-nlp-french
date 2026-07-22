@@ -80,4 +80,3 @@ clinical-nlp-french/
 
 ---
 
-*Author: Thilleli ROUAS — [github.com/thiilelli](https://github.com/thiilelli)*
